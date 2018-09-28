@@ -1,4 +1,4 @@
-##import
+## import
 
 
 - heavy duty work load pays off
@@ -11,4 +11,8 @@
 •	Fix Norwegian localization bad display and wrong encoding.
 •	Fix functionList display problem under high DPI.
 •	Fix Norwegian localization bad display and wrong encoding.
+
+    - Fix Norwegian localization bad display and wrong encoding.
+    - Fix functionList display problem under high DPI.
+
 
