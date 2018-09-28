@@ -1,8 +1,8 @@
 ##import
 
 
--heavy duty work load pays off
-+have you been here
+- heavy duty work load pays off
++ have you been here
 
 
 •	Fix a crash issue by using wild card (*) to open files on command line.
